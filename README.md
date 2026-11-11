@@ -14,10 +14,9 @@
 
 ### 🌙 About me
 - 🌷 Learning to build cute and useful things
-- 📚 Currently learning: **Python / Web Dev**
+- 📚 Currently learning: **GenAI / Python / DevOps / Web Dev**
 - 💻 Coding on a laptop, dreaming of a cozy setup
-- 👨‍💻 Big brother is also a dev: [@tghimanshu](https://github.com/tghimanshu)
-- 💌 Ask me about: **anything, I love helping!**
+- 💌 Ask me about: **anything, I love helping and listening to music!**
 
 ### 🛠️ Toolkit
 <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&theme=dark" />
